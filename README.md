@@ -19,3 +19,8 @@ The features are as follows:
   An ensemble topic model (LDA) is then run on each cluster corpus where it is automated to optimize for greatest coherence score.
   Resulting keywords for each topic / cluster are plotted on a collective horizontal bar chart where bar colors are automated to coordiante with the colors from the cluster plot.
   The work can be expanded to generate a fully fledged recommendation engine based on the liked / dislike coffee beans
+
+
+![newplot](https://github.com/user-attachments/assets/00a13928-8343-4672-9e46-5c6e5b145530)
+
+![Cluster_Topics_Orig](https://github.com/user-attachments/assets/1a42c496-056f-47d8-8080-194c50f509c4)
